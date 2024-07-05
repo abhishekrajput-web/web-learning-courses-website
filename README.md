@@ -1,5 +1,5 @@
 # Web Courses Website
-<h1 style="font-size:20px">Web courses learning website using bootstrap </h1>
+<h1 style="font-size:20px">Web courses learning website using bootstrap</h1>
 <p><a href="https://abhishekrajput-web.github.io/web-learning-courses-website/">View The Live Website Deployment </a></p>
 
 <h2 style="font-size:20px">Technology used to make this website</h2>
